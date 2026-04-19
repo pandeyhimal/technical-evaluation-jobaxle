@@ -1,0 +1,3 @@
+this folder contains the connections between the frontend and backend with jwt authentication and password hasing.
+REST apis using express and local monodb.
+connect the frontend with backend apis and handle the error gracefully.
